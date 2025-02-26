@@ -8,21 +8,17 @@
 </h1>
 
 
-<h3 align="center">Passionate PCB designer driven by innovation and precision.</h3>
+<h3 align="center">Passionate Biomedical Engineer.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Advanced PCB designing** and **fabrication on Carvera**
+ 🔭 I’m currently working on **Research** and **Development of Medical Devices & Machines**
 
- 🌱 I’m performing **Debugging and troubleshooting** and **Research and development**
+ 🌱 I’m performing **Project Planning** and **Documentation as per regulatory standards**
 
-💬 My expertise includes **Firmware development** and **medical-grade devices**
-
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
-👨‍💻 I'm also a **Freelancer** specializing in embedded systems and PCB design.
+💬 My expertise includes **Technical Documentation** and **Regulatory Compliance**
  
 </div>
 
