@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=its+javeria+farooq!+👋;+Research+and+Documentation+Engineer!;&color=0e75b6&background=FFFFFF00" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=its+javeria+farooq!+👋;+Project+Management+Unit!;&color=0e75b6&background=FFFFFF00" />
 </h1>
 
 
@@ -16,9 +16,9 @@
  
  🔭 I’m currently working on **Research** and **Development of Medical Devices & Machines**
 
- 🌱 I’m performing **Project Planning** and **Documentation as per regulatory standards**
+ 🌱 I’m performing **Technical Projects Management**
 
-💬 My expertise includes **Technical Documentation** and **Regulatory Compliance**
+💬 My expertise includes **Technical Documentation**  and **Project Management**
  
 </div>
 
@@ -27,7 +27,7 @@
   <a href="itsjaveriafarooq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/itsjaveriafarooq" target="_blank">
+  <a href="https://www.linkedin.com/in/javeria--farooq/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
@@ -59,7 +59,7 @@
 <br>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsjaveriafarooq&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=itsjaveriafarooq&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+
 </p>
 
 <p align="left">
