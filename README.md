@@ -53,25 +53,6 @@
 
 
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsjaveriafarooq&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjaveriafarooq&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsjaveriafarooq&theme=react&hide_title=false&area=true" alt="GitHub activity graph" />
-</p>
-
-<hr/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
 <a href="https://github.com/itsjaveriafarooq" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
